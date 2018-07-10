@@ -4,3 +4,6 @@ By [Aaron Fagan](https://www.aaronfagan.ca/)
 
 ## Instructions
 Coming soon!
+
+# License
+This project is licensed under the [GNU General Public License](LICENSE).
