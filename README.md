@@ -1,4 +1,4 @@
-![HitCount](http://hits.dwyl.io/aaronfagan/configure-aws-lambda-to-automatically-invalidate-cloudfront-objects-from-s3.svg)
+![HitCount](http://hits.dwyl.io/aaronfagan/aws-lambda-cloudfront-invalidation.svg)
 # Configure AWS Lambda to Automatically Invalidate Cloudfront Objects from S3
 Automatically invalidate CloudFront object when it is modified, deleted, or uploaded.
 
