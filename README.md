@@ -5,8 +5,5 @@ Automatically invalidate CloudFront object when it is modified, deleted, or uplo
 ## Instructions
 Coming soon!
 
-## Authors
-- Aaron Fagan - [www.aaronfagan.ca](https://www.aaronfagan.ca/)
-
-# License
-This project is licensed under the [GNU General Public License](LICENSE).
+# Contributors
+* Aaron Fagan - [Github](https://github.com/aaronfagan), [Website](https://www.aaronfagan.ca/)
