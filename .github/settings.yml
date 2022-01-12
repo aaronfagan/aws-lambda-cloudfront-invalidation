@@ -2,7 +2,7 @@ repository:
   name: 'aws-lambda-cloudfront-invalidation'
   description: 'Configure AWS Lambda to Automatically Invalidate CloudFront Objects from S3'
   homepage: 'https://www.aaronfagan.ca/blog/2019/how-to-configure-aws-lambda-to-automatically-invalidate-cloudfront-objects/'
-  default_branch: 'master'
+  default_branch: 'main'
   private: false
   has_issues: true
   has_wiki: false
