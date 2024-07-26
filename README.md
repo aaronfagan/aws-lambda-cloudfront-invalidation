@@ -3,6 +3,3 @@ Automatically invalidate CloudFront object when it is modified, deleted, or uplo
 
 ## Instructions
 Coming soon!
-
-# Contributors
-* Aaron Fagan - [Github](https://github.com/aaronfagan), [Website](https://www.aaronfagan.ca/)
